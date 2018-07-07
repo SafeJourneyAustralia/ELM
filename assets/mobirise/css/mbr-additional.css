@@ -1219,7 +1219,6 @@ body {
   padding-top: 60px;
   padding-bottom: 30px;
   background-color: #ffffff;
-  background: linear-gradient(#ffffff, #efefef);
 }
 .cid-qWCJCSNaP5 .carousel-control {
   background: #000;
@@ -2967,7 +2966,7 @@ body {
 }
 .cid-qWHxa9Peyn {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qWHxa9Peyn .mbr-text,
@@ -2975,7 +2974,7 @@ body {
   text-align: center;
 }
 .cid-qWHywPNqJa {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
